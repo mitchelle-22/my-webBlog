@@ -1,0 +1,28 @@
+PROBLEM STATEMENT
+Public health experts around the globe are scrambling to understand, track, and contain a new virus that appeared in Wuhan,
+ China, at the beginning of December 2019. The World Health Organization named the disease caused by the virus COVID-19, 
+which references the type of virus and the year it emerged. 
+The WHO declared that the virus is a pandemic.
+You can see where and how many cases of the illness have been reported in this map. There have been over 200,000 confirmed cases and 9,000 deaths. 
+Over 84,000 people have recovered from the illness. The majority of the illnesses were initially in China, 
+where the virus first emerged, but the rate of new cases there has nearly stopped. 
+There are now more cases outside of China than there were inside of it at the height of the outbreak. 
+There are large outbreaks of the disease in multiple places, including Spain, Italy, and Iran. 
+There are over 9,000 people with confirmed cases of COVID-19 and 150 deaths from the virus in the US.
+As this important story continues to unfold, our hope is to answer all of your questions as people work 
+to understand this virus and contain its spread.
+
+
+
+introduction
+At the end of December, public health officials from China informed the World Health Organization that they had a problem: an unknown, new virus was causing pneumonia-like illness in the city of Wuhan.
+ They quickly determined that it was a coronavirus and that it was rapidly spreading through and outside of Wuhan.
+Coronaviruses are common in animals of all kinds, and they sometimes can evolve into forms that can infect humans.
+ Since the start of the century, two other coronaviruses have jumped to humans, causing the SARS outbreak in 2002 
+and the MERS outbreak in 2012.
+Scientists think this new virus first became capable of jumping to humans at the beginning of December. 
+It originally seemed like the virus first infected people at a seafood market in Wuhan and spread from there. 
+But one analysis of early cases of the illness, published January 24th, found that the first patient to get sick 
+did not have any contact with the market. Experts are still trying to trace the outbreak back to its source.
+The type of animal the virus originated from is not clear, although one analysis found that the genetic sequence 
+of the new virus is 96 percent identical to one coronavirus found in bats. Both SARS and MERS originated in bats.
